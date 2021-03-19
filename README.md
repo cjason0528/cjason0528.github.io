@@ -1,3 +1,17 @@
+# 作業4 張世旻   
+**40717004**  
+*40717004*  
+~~40717004~~   
+
+* list1
+* list2
+* list3   
+
+[我的網頁](https://cjason0528.github.io/)
+https://cjason0528.github.io/
+
+![Hello](https://github.com/cjason0528/cjason0528.github.io/blob/main/00.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cjason0528/cjason0528.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
