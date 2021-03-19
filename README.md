@@ -10,7 +10,7 @@
 [我的網頁](https://cjason0528.github.io/)   
 https://cjason0528.github.io/   
 
-![Hello](https://github.com/cjason0528/cjason0528.github.io/blob/main/00.jpg)   
+![Hello](https://github.com/cjason0528/cjason0528.github.io/blob/main/dog.jpg)   
 
 ## Welcome to GitHub Pages
 
